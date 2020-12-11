@@ -1,2 +1,4 @@
-# swiftPackageTestSdk
-swift package test
+# BmobSwift2
+
+A description of this package.
+
